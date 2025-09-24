@@ -10,8 +10,8 @@ ls
 cd tirupati
 touch btw basavangudi
 ls
-cd
-cd india
+cd ..
+cd ..
 ls
 cd karnataka
 mkdir bengaluru mysore
@@ -19,8 +19,9 @@ ls
 cd bengaluru
 touch busstand airport
 ls
-cd
-cd india
+cd ..
+cd ..
+ls
 cd tamilnadu
 mkdir chennai
 ls
