@@ -3,6 +3,7 @@
 pwd
 ls
 mkdir anil
+ls
 cd anil
 touch ashu
 ls
