@@ -8,3 +8,4 @@ ls
 cd $dir
 touch $file
 ls
+pwd
