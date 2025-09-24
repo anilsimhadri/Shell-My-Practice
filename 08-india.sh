@@ -1,6 +1,5 @@
 #!/bin/bash
 mkdir india
-ls
 cd india
 mkdir andhra karnataka tamilnadu
 ls
