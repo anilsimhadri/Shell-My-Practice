@@ -8,6 +8,7 @@ mkdir tirupati
 ls
 cd tirupati
 touch btw basavangudi
+pwd
 ls
 cd ..
 cd ..
@@ -17,6 +18,7 @@ mkdir bengaluru mysore
 ls
 cd bengaluru
 touch busstand airport
+pwd
 ls
 cd ..
 cd ..
@@ -26,4 +28,5 @@ mkdir chennai
 ls
 cd chennai
 touch tambara velachery
+pwd
 ls
